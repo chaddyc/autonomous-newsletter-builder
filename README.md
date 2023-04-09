@@ -1,11 +1,5 @@
 # autonomous-listmonk-newsletter
-Autonomous newsletter builder tool developed with GoLang and using Listmonk Opensource WebApp Api and Github Actions.
-
-<div align="center"> 
-
-CICD workflow that handles Opensource Geeks weekly newsletter using the Listmonk API. <br>
-
-</div>
+Autonomous newsletter builder tool developed with GoLang that autonomously compiles weekly newsletter and sends it via Listmonk API with Github Actions workflows.
 
 ## Table of Contents
 
@@ -16,27 +10,19 @@ CICD workflow that handles Opensource Geeks weekly newsletter using the Listmonk
 
 ## About
 
-This software creates Opensource Geeks' weekly newsletter by compiling it using RSS data and automatically sends it to the email subscribers list usings the following technologies:
+This software autonomously create a Listmonk newsletter campaign weekly by compiling it using RSS data and automatically posts it to the Listmonk API that creates the campaign and sends the newsletter to the email subscribers list usings the following technologies:
 
 - CICD - Github Actions
-- Newsletter Software - Listmonk
+- Newsletter Platform - [Listmonk](https://opensourcegeeks.net/how-to-install-listmonk-with-docker/)
 - Version Control - Git/Github
 - Programming - GoLang
 
 ## Getting Started
 
-Clone project and change `env` vars according to your environment and configuration.
+Star(optional) and Fork this project. Clone it to your local machine and follow the steps in this blog article to add all your environment configuration and commit to your repository. Setup steps -> [How I Built An Autonomous Newsletter Compiler Tool With GoLang, GitHub Actions, And Listmonk]()
 
 ## How To Contribute
 
-* [GoLang RSS Feeder](https://github.com/mmcdole/gofeed)
-* [Listmonk API Docs](https://listmonk.app/docs/apis/apis/)
-* [Read Markdown Into Var - GoLang](https://www.golinuxcloud.com/go-read-file-into-variable/)
-* [Write To File - GoLang](https://gobyexample.com/writing-files)
-* [Curl To Go - GoLang](https://mholt.github.io/curl-to-go/)
-* [GoLang Structs](https://www.simplilearn.com/tutorials/golang-tutorial/golang-struct)
-* [Curl To GoLang](https://mholt.github.io/curl-to-go)
-* [Date/Time GoLang](https://zetcode.com/golang/datetime/)
-* [Time GoLang](https://www.digitalocean.com/community/tutorials/how-to-use-dates-and-times-in-go)
+
 
 ## Contributors
