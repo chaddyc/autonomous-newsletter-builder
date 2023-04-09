@@ -45,7 +45,7 @@ func Listmonk() {
 		Body:        string(fc),
 		Messenger:   "email",
 		Type:        "regular",
-		TemplateID:  3,
+		TemplateID:  3, // replace with your listmonk template id
 	}
 	payloadBytes, err := json.Marshal(data)
 	if err != nil {
