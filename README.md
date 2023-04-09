@@ -11,7 +11,7 @@ CICD workflow that handles Opensource Geeks weekly newsletter using the Listmonk
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Resources](#resources)
+- [How To Contribute](#how_to_contribute)
 - [Contributors](#contributors)
 
 ## About
@@ -27,7 +27,7 @@ This software creates Opensource Geeks' weekly newsletter by compiling it using 
 
 Clone project and change `env` vars according to your environment and configuration.
 
-## Resources
+## How To Contribute
 
 * [GoLang RSS Feeder](https://github.com/mmcdole/gofeed)
 * [Listmonk API Docs](https://listmonk.app/docs/apis/apis/)
@@ -40,18 +40,3 @@ Clone project and change `env` vars according to your environment and configurat
 * [Time GoLang](https://www.digitalocean.com/community/tutorials/how-to-use-dates-and-times-in-go)
 
 ## Contributors
-
-<table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
-        <a href=https://github.com/chaddyc>
-            <img src=https://avatars.githubusercontent.com/u/34277139?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Chad Crouch/>
-            <br />
-            <sub style="font-size:14px"><b>Chad Crouch</b></sub>
-        </a>
-    </td>
-</tr>
-</table>
-
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
