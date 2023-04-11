@@ -24,7 +24,6 @@ Star(optional) and Fork this project. Clone it to your local machine and follow 
 ## How To Contribute
 
 
-
 ## Contributors
 
 <table>
@@ -38,3 +37,7 @@ Star(optional) and Fork this project. Clone it to your local machine and follow 
     </td>
 </tr>
 </table>
+
+## License
+
+[MIT](./LICENSE)
