@@ -7,6 +7,7 @@ Autonomous newsletter builder tool developed with GoLang that autonomously compi
 - [Getting Started](#getting-started)
 - [How To Contribute](#how-to-contribute)
 - [Contributors](#contributors)
+- [License](#license)
 
 ## About
 
