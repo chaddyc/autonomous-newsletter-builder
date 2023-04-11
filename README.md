@@ -17,13 +17,6 @@ This software autonomously create a Listmonk newsletter campaign weekly by compi
 - Version Control - Git/Github
 - Programming - GoLang
 
-|----------|:-------------:|
-| CICD     |  Github Actions |
-| Newsletter Platform |    [Listmonk](https://opensourcegeeks.net/how-to-install-listmonk-with-docker/)  |
-|Version Control | Git/Github |
-| Programming | GoLang |
-|----------|:-------------:|
-
 ## Getting Started
 
 Star(optional) and Fork this project. Clone it to your local machine and follow the steps in this blog article to add all your environment configuration and commit to your repository. Setup steps -> [How I Built An Autonomous Newsletter Compiler Tool With GoLang, GitHub Actions, And Listmonk](https://opensourcegeeks.net/how-i-built-an-autonomous-newsletter-compiler-tool-with-golang-github-actions-and-listmonk/)
