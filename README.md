@@ -1,4 +1,3 @@
-# autonomous-listmonk-newsletter
 Autonomous newsletter builder tool developed with GoLang that autonomously compiles weekly newsletter and sends it via Listmonk API with Github Actions workflows.
 
 ## Table of Contents
@@ -11,7 +10,7 @@ Autonomous newsletter builder tool developed with GoLang that autonomously compi
 
 ## About
 
-This software autonomously create a Listmonk newsletter campaign weekly by compiling it using RSS data and automatically posts it to the Listmonk API that creates the campaign and sends the newsletter to the email subscribers list usings the following technologies:
+This software autonomously creates a Listmonk newsletter campaign weekly by compiling it using RSS data and automatically posts it to the Listmonk API that creates the campaign and sends the newsletter to the email subscribers list using the following technologies:
 
 - CICD - Github Actions
 - Newsletter Platform - [Listmonk](https://opensourcegeeks.net/how-to-install-listmonk-with-docker/)
@@ -41,4 +40,4 @@ Star(optional) and Fork this project. Clone it to your local machine and follow 
 
 ## License
 
-[MIT](./LICENSE)
+For license information, please see [LICENSE](./LICENSE)
