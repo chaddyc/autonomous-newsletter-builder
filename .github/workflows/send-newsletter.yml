@@ -33,6 +33,7 @@ jobs:
         run: |
           echo ${{ secrets.LISTMONK_USERNAME }} >> ./.env
           echo ${{ secrets.LISTMONK_PASSWORD}} >> ./.env
+          echo ${{ secrets.LISTMONK_API}} >> ./.env
 
       - name: Set up Go
         uses: actions/setup-go@v3

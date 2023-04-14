@@ -53,7 +53,9 @@ func Listmonk() {
 	}
 	body := bytes.NewReader(payloadBytes)
 
-	req, err := http.NewRequest("POST", "https://listmonknewsletter.com/api/campaigns", body) // replace this with your listmonk campaign api url
+	var api = os.Getenv("LISTMONK_API")
+
+	req, err := http.NewRequest("POST", api, body) // replace this with your listmonk campaign api url
 	if err != nil {
 		log.Fatalf("Error occured. Err: %s", err)
 	}
