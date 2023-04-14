@@ -23,6 +23,7 @@ Star(optional) and Fork this project. Clone it to your local machine and follow 
 
 ## How To Contribute
 
+Contact me via [Twitter](https://twitter.com/fossgeek)
 
 ## Contributors
 
